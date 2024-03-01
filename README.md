@@ -1,5 +1,5 @@
 # To-Do-List
-This project is a simple MERN (MongoDB, Express, React, Node.js) application designed to help you manage your tasks, projects, and team work effectively. This video series will guide you through the process of creating, reading, updating, and deleting Todos.
+This project is a simple MERN (MongoDB, Express, React, Node.js) application designed to help you manage your tasks, projects, and team work effectively. This Web Application will help you through the process of creating, reading, updating, and deleting Todos.
 
 ## Overview
 This TodoList app is a straightforward yet powerful tool to organize your tasks and streamline your workflow. It provides a user-friendly interface for managing todos, allowing you to create, view, update, and delete tasks effortlessly.
